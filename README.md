@@ -94,10 +94,10 @@ An AI-powered student wellbeing platform built during a hackathon using Flask, F
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorantlasadwik&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Sadwik's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorantlasadwik&theme=vision-friendly-dark&hide_border=true&background=0D1117" alt="Sadwik's GitHub Streak" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
+
 
