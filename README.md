@@ -86,7 +86,7 @@
 ## 📈 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorantlasadwik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sadwik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gorantlasadwik&show_icons=true&theme=tokyonight&hide_border=true" alt="Sadwik's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorantlasadwik&theme=tokyonight&hide_border=true" alt="Sadwik's GitHub Streak" />
 </div>
 
