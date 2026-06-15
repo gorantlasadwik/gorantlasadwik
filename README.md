@@ -12,7 +12,7 @@
 
   <p align="center">
     <a href="mailto:sadwik.india@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/Sadwik%20Gorantla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/sadwik-gorantla-042362282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/gorantlasadwik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
@@ -24,7 +24,7 @@
 Based on my repositories and projects, here are the technologies I work with:
 
 **Programming Languages:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 
 **Frontend & Web Technologies:**  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/> <img src="https://img.shields.io/badge/AJAX-005C84?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX"/>
@@ -42,12 +42,12 @@ Based on my repositories and projects, here are the technologies I work with:
 
 ## 💻 Featured Projects
 
-### 🎵 SyncTunes
+### 🎵 [SyncTunes](https://github.com/gorantlasadwik/sync-tunes)
 An AI-powered web application that synchronizes playlists between Spotify and YouTube Music using intelligent song matching and cross-platform playlist management.
 - **Tech Stack:** Python, Flask, PostgreSQL, HTML, CSS, JavaScript, Spotify Web API, YouTube API, Groq AI
 - **Features:** OAuth authentication, AI-based song title extraction, fuzzy matching, and real-time synchronization.
 
-### 🏢 TalentSync PRO
+### 🏢 [TalentSync PRO](https://github.com/gorantlasadwik/talentsync)
 A full-stack dual-role hiring platform connecting job seekers and job providers with real-time chat, job feeds, map-assisted discovery, resume uploads, and hiring workflows.
 - **Tech Stack:** PHP, MySQL, JavaScript, jQuery, TailwindCSS, Leaflet Maps, AJAX
 - **Features:** CAPTCHA security, AJAX-based messaging, location services, and role-based dashboards.
@@ -56,6 +56,27 @@ A full-stack dual-role hiring platform connecting job seekers and job providers 
 An AI-powered student wellbeing platform built during a hackathon using Flask, FastAPI, and a Chrome Extension ecosystem.
 - **Tech Stack:** Python, Flask, FastAPI, JavaScript, Chrome Extension APIs, SQLite, Hugging Face API, Groq AI, JWT, Google Fit API, Twilio API
 - **Features:** Multi-role system (students, counsellors, wardens, etc.), mood tracking, consent-based browser signal collection, AI-driven stress/emotion analysis, and secure real-time messaging.
+
+---
+
+## 📚 More Repositories & Projects
+
+<details>
+<summary><b>Click to expand and view my other repositories</b></summary>
+
+- **[altair](https://github.com/gorantlasadwik/altair)** • _HTML_<br/>No description provided.
+- **[altair2](https://github.com/gorantlasadwik/altair2)** • _HTML_<br/>No description provided.
+- **[campusconnect](https://github.com/gorantlasadwik/campusconnect)** • _Dart_ • ⭐ 1<br/>No description provided.
+- **[demo](https://github.com/gorantlasadwik/demo)** • _Python_<br/>No description provided.
+- **[Doprax](https://github.com/gorantlasadwik/Doprax)** • ⭐ 2<br/>No description provided.
+- **[ecoverse](https://github.com/gorantlasadwik/ecoverse)** • _Python_<br/>No description provided.
+- **[odia-gamefication](https://github.com/gorantlasadwik/odia-gamefication)** • _JavaScript_ • ⭐ 1<br/>No description provided.
+- **[odia-quiz](https://github.com/gorantlasadwik/odia-quiz)** • _JavaScript_ • ⭐ 1<br/>No description provided.
+- **[odisha-learning-platform](https://github.com/gorantlasadwik/odisha-learning-platform)** • _JavaScript_ • ⭐ 2<br/>🏛️ Cultural Education Platform for Rural Odisha Schools - Gamified Learning with Heritage Integration
+- **[OliviaMusicRoBot](https://github.com/gorantlasadwik/OliviaMusicRoBot)** • ⭐ 2<br/>No description provided.
+- **[SvTraderStore](https://github.com/gorantlasadwik/SvTraderStore)** • _TypeScript_ • ⭐ 2<br/>No description provided.
+
+</details>
 
 ---
 
@@ -79,3 +100,4 @@ An AI-powered student wellbeing platform built during a hackathon using Flask, F
   <img src="https://github-readme-stats.vercel.app/api?username=gorantlasadwik&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Sadwik's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorantlasadwik&theme=vision-friendly-dark&hide_border=true&background=0D1117" alt="Sadwik's GitHub Streak" />
 </div>
+
