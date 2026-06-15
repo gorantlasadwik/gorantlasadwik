@@ -83,14 +83,17 @@
 ## 📈 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gorantlasadwik/gorantlasadwik/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gorantlasadwik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sadwik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorantlasadwik&theme=tokyonight&hide_border=true" alt="Sadwik's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorantlasadwik&theme=tokyonight&hide_border=true" alt="Sadwik's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorantlasadwik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<br/>
 
 <!-- Snake Animation -->
 <div align="center">
