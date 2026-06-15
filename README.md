@@ -16,6 +16,8 @@
 
 ## 👨‍💻 About Me
 
+*Hi there! I'm an aspiring Software Engineer who loves bridging the gap between cutting-edge AI and practical, full-stack web applications. When I'm not coding, I'm probably experimenting with a new API or brainstorming my next hackathon project.* 🚀
+
 <table align="center">
   <tr>
     <td width="60%">
@@ -24,10 +26,11 @@
         <li>💡 <b>Interests:</b> Full-stack development, AI integration, real-time communication systems.</li>
         <li>🏅 <b>Certifications:</b> Google Cloud Run & Firebase Serverless Applications.</li>
         <li>🚀 <b>Currently:</b> Building intelligent platforms and exploring cutting-edge AI frameworks (Groq, Hugging Face).</li>
+        <li>⚡ <b>Fun Fact:</b> I love turning coffee into functional code and exploring new tech stacks!</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5YjB6cWZqOG9tdnB3ZjM0bnVtbWZxbml5eTN2OGt5Zm16bGFnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggk9ebQk0oIIfR/giphy.gif" width="200" alt="Coding GIF"/>
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
