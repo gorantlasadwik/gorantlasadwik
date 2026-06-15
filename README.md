@@ -1,103 +1,106 @@
-<!--
-**gorantlasadwik/gorantlasadwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sadwik%20Gorantla&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=60" />
+</div>
 
 <div align="center">
-  <h1>Hi there, I'm Sadwik Gorantla! 👋</h1>
-  <h3>Integrated M.Tech Software Engineering Student @ VIT Chennai</h3>
-  
-  <p align="center">
-    <i>Passionate about full-stack development, AI-powered applications, and cloud technologies. I enjoy building scalable platforms involving AI integration, authentication systems, APIs, and real-time communication workflows.</i>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Integrated+M.Tech+Software+Engineering+Student;Passionate+about+AI-powered+applications;Building+scalable+platforms;Always+learning,+always+coding!" alt="Typing SVG" />
+</div>
 
-  <p align="center">
-    <a href="mailto:sadwik.india@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/sadwik-gorantla-042362282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/gorantlasadwik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+<div align="center">
+  <a href="mailto:sadwik.india@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sadwik-gorantla-042362282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/gorantlasadwik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br/>
 
+## 👨‍💻 About Me
+
+<table align="center">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 <b>Education:</b> Integrated M.Tech in Software Engineering @ <b>VIT Chennai</b> (CGPA: 8.6/10)</li>
+        <li>💡 <b>Interests:</b> Full-stack development, AI integration, real-time communication systems.</li>
+        <li>🏅 <b>Certifications:</b> Google Cloud Run & Firebase Serverless Applications.</li>
+        <li>🚀 <b>Currently:</b> Building intelligent platforms and exploring cutting-edge AI frameworks (Groq, Hugging Face).</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5YjB6cWZqOG9tdnB3ZjM0bnVtbWZxbml5eTN2OGt5Zm16bGFnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggk9ebQk0oIIfR/giphy.gif" width="200" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
-Based on my repositories and projects, here are the technologies I work with:
-
-**Programming Languages:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-
-**Frontend & Web Technologies:**  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/> <img src="https://img.shields.io/badge/AJAX-005C84?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX"/>
-
-**Backend & Frameworks:**  
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-
-**Databases:**  
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-
-**Tools, APIs & Cloud Platforms:**  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/> <img src="https://img.shields.io/badge/Spotify_API-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify API"/> <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube API"/> <img src="https://img.shields.io/badge/Twilio_API-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio API"/> <img src="https://img.shields.io/badge/Leaflet_Maps-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/> <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Extensions"/>
+<div align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,php,dart,html,css,tailwind,jquery,flask,fastapi,postgres,mysql,sqlite,git,github,gcp,firebase&perline=10" />
+  </a>
+  <br/>
+</div>
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-### 🎵 [SyncTunes](https://github.com/gorantlasadwik/sync-tunes)
-An AI-powered web application that synchronizes playlists between Spotify and YouTube Music using intelligent song matching and cross-platform playlist management.
-- **Tech Stack:** Python, Flask, PostgreSQL, HTML, CSS, JavaScript, Spotify Web API, YouTube API, Groq AI
-- **Features:** OAuth authentication, AI-based song title extraction, fuzzy matching, and real-time synchronization.
+<div align="center">
+  <a href="https://github.com/gorantlasadwik/sync-tunes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gorantlasadwik&repo=sync-tunes&theme=tokyonight&show_icons=true" alt="SyncTunes" width="400"/>
+  </a>
+  <a href="https://github.com/gorantlasadwik/talentsync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gorantlasadwik&repo=talentsync&theme=tokyonight&show_icons=true" alt="TalentSync PRO" width="400"/>
+  </a>
+  <a href="https://github.com/gorantlasadwik/EqWell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gorantlasadwik&repo=EqWell&theme=tokyonight&show_icons=true" alt="EqWell" width="400"/>
+  </a>
+</div>
 
-### 🏢 [TalentSync PRO](https://github.com/gorantlasadwik/talentsync)
-A full-stack dual-role hiring platform connecting job seekers and job providers with real-time chat, job feeds, map-assisted discovery, resume uploads, and hiring workflows.
-- **Tech Stack:** PHP, MySQL, JavaScript, jQuery, TailwindCSS, Leaflet Maps, AJAX
-- **Features:** CAPTCHA security, AJAX-based messaging, location services, and role-based dashboards.
-
-### 🧠 [EqWell](https://github.com/gorantlasadwik/EqWell)
-An AI-powered student wellbeing platform built during a hackathon using Flask, FastAPI, and a Chrome Extension ecosystem.
-- **Tech Stack:** Python, Flask, FastAPI, JavaScript, Chrome Extension APIs, SQLite, Hugging Face API, Groq AI, JWT, Google Fit API, Twilio API
-- **Features:** Multi-role system (students, counsellors, wardens, etc.), mood tracking, consent-based browser signal collection, AI-driven stress/emotion analysis, and secure real-time messaging.
-
----
-
-## 📚 More Repositories & Projects
+<br/>
 
 <details>
-<summary><b>Click to expand and view my other repositories</b></summary>
+<summary><b>🔥 Click to view all my other 10+ repositories!</b></summary>
+<br/>
 
-- **[altair](https://github.com/gorantlasadwik/altair)** • _HTML_<br/>No description provided.
-- **[altair2](https://github.com/gorantlasadwik/altair2)** • _HTML_<br/>No description provided.
-- **[campusconnect](https://github.com/gorantlasadwik/campusconnect)** • _Dart_ • ⭐ 1<br/>No description provided.
-- **[demo](https://github.com/gorantlasadwik/demo)** • _Python_<br/>No description provided.
-- **[Doprax](https://github.com/gorantlasadwik/Doprax)** • ⭐ 2<br/>No description provided.
-- **[ecoverse](https://github.com/gorantlasadwik/ecoverse)** • _Python_<br/>No description provided.
-- **[odia-gamefication](https://github.com/gorantlasadwik/odia-gamefication)** • _JavaScript_ • ⭐ 1<br/>No description provided.
-- **[odia-quiz](https://github.com/gorantlasadwik/odia-quiz)** • _JavaScript_ • ⭐ 1<br/>No description provided.
-- **[odisha-learning-platform](https://github.com/gorantlasadwik/odisha-learning-platform)** • _JavaScript_ • ⭐ 2<br/>🏛️ Cultural Education Platform for Rural Odisha Schools - Gamified Learning with Heritage Integration
-- **[OliviaMusicRoBot](https://github.com/gorantlasadwik/OliviaMusicRoBot)** • ⭐ 2<br/>No description provided.
-- **[SvTraderStore](https://github.com/gorantlasadwik/SvTraderStore)** • _TypeScript_ • ⭐ 2<br/>No description provided.
+- **[altair](https://github.com/gorantlasadwik/altair)** • _HTML_
+- **[campusconnect](https://github.com/gorantlasadwik/campusconnect)** • _Dart_ ⭐ 1
+- **[Doprax](https://github.com/gorantlasadwik/Doprax)** ⭐ 2
+- **[ecoverse](https://github.com/gorantlasadwik/ecoverse)** • _Python_
+- **[odia-gamefication](https://github.com/gorantlasadwik/odia-gamefication)** • _JavaScript_ ⭐ 1
+- **[odia-quiz](https://github.com/gorantlasadwik/odia-quiz)** • _JavaScript_ ⭐ 1
+- **[odisha-learning-platform](https://github.com/gorantlasadwik/odisha-learning-platform)** • _JavaScript_ ⭐ 2
+- **[OliviaMusicRoBot](https://github.com/gorantlasadwik/OliviaMusicRoBot)** ⭐ 2
+- **[SvTraderStore](https://github.com/gorantlasadwik/SvTraderStore)** • _TypeScript_ ⭐ 2
 
 </details>
 
 ---
 
-## 🎓 Education
-- **Integrated M.Tech Software Engineering** (2024 - Present) @ *Vellore Institute of Technology, Chennai* | CGPA: 8.6/10
-- **Intermediate (MPC)** (2022 - 2024) @ *K Venkanna Junior College* | Score: 975/1000
-- **Secondary School Education** (2022) @ *Fatima Convent High School* | CGPA: 9.7/10
-
----
-
-## 🏆 Certifications & Badges
-- 🏅 Develop Serverless Apps with Firebase – *Google*
-- 🏅 Cloud Run Functions: 3 Ways – *Google*
-- 🏅 Develop Serverless Applications on Cloud Run – *Google*
-
----
-
-## 📊 GitHub Stats & Metrics
+## 📈 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/gorantlasadwik/gorantlasadwik/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorantlasadwik&theme=tokyonight&hide_border=true" alt="Sadwik's GitHub Streak" />
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gorantlasadwik/gorantlasadwik/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gorantlasadwik/gorantlasadwik/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gorantlasadwik/gorantlasadwik/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
